@@ -8,7 +8,7 @@ edition = "2021"
 [dependencies]
 array-init = "2.0.1"
 byteorder = "1.4.3"
-flate2 = "1.0.24"
+flate2 = "1.0.30"
 num_enum = "0.5.7"
 spooky_bsp_derive = { path = "spooky_bsp_derive" }
 
