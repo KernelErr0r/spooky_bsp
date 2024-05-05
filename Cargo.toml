@@ -9,7 +9,7 @@ edition = "2021"
 array-init = "2.0.1"
 byteorder = "1.4.3"
 flate2 = "1.0.24"
-num_enum = "0.5.7"
+num_enum = "0.7.0"
 spooky_bsp_derive = { path = "spooky_bsp_derive" }
 
 [dev-dependencies]
